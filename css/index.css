@@ -168,6 +168,7 @@ nav {
   display: flex;
   justify-content: center;
   font-size: 2rem;
+  padding: 1px;
 }
 nav a {
   text-decoration: none;
