@@ -7,7 +7,7 @@ kirktolliver28@gmail.com
 
 1.) What is the difference between an adaptive website and a fully responsive website?
 
-        Responsive webesites will change depending on the viewport of the browser. The code base doesn't need to be
+        Responsive websites will change depending on the viewport of the browser. The code base doesn't need to be
         changed. Adaptive websites use anchor points to render a layout on specific screen sizes. 
 
 2.)Describe what it means to be mobile first vs desktop first.
