@@ -189,7 +189,7 @@ footer {
   font-size: 4rem;
   text-align: center;
 }
-@media (max-width: 500px) {
+@media (max-width:500px) {
   .home {
     width: 100%;
     display: flex;
@@ -213,7 +213,7 @@ footer {
   border-radius: 20px;
   height: 100%;
 }
-@media (max-width: 500px) {
+@media (max-width:500px) {
   .home .space-images {
     width: 100%;
     display: flex;
@@ -248,7 +248,7 @@ footer {
   display: flex;
   justify-content: center;
 }
-@media (max-width: 500px) {
+@media (max-width:500px) {
   .home .walk {
     width: 200%;
     padding: 0;
